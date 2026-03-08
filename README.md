@@ -1,2 +1,2 @@
-# project-1
+arduino-led-chaser
 LED cheaser using ardino simulater
